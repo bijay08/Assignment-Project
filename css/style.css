@@ -103,12 +103,17 @@ header {
 
 .slider {
     background: #ec1b23;
+    margin: 10px 0;
+    height: 50px;
 }
 
 .information {
     background: blue;
+    height: 50px;
 }
 
 footer {
     background: green;
+    margin-top: 10px;
+    height: 50px;
 }
