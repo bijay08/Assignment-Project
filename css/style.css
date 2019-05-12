@@ -100,3 +100,15 @@ header {
 .banner img{
     width: 100%;
 }
+
+.slider {
+    background: #ec1b23;
+}
+
+.information {
+    background: blue;
+}
+
+footer {
+    background: green;
+}
